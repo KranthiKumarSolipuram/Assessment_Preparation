@@ -1,0 +1,6 @@
+@Assessment_Preparation_HostAddress = http://localhost:5111
+
+GET {{Assessment_Preparation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
